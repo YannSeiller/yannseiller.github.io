@@ -1,37 +1,41 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Who I am ? 
+<!--tags: [about, Jekyll, theme, moon]-->
+date: 2017-11-24
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center> Let me introduce myself: I'm <strong>Yann Seiller</strong>. I'm french and I was born in a small city, north-east France. One thing that can caracterized me is the fact that most things, in this world, interest me. Of course, technologies and humain relation with them is a crucial subject for me, but not it's not the only one. I'am a proponent of what I call a <em>"well-balanced life"</em>.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+ Let me explain: I consider that it's really significant to be multi-skilled, and to be able to be interested in many domains. It's a plus for a simple reason: in our profesional and private life, we will be more and more exposed to amazing cases, have seen many different things bring us an open-mindedness, which help us to deal with every challenge.</center>
 
-## Preview
+## Things that I like to do or I'm interested in
+* Of course, technologies and challenges of the new century
+* Machine learning, deep-learning and things related to AI
+* Big Data and our private life, how to concil them ? Do we have the choice ? 
+* Nature, environnement, energy and all the issues with globalwarming
+* Space conquest and astronomy
+* Sports ! Visit the related area !
+* Readings and writting exercises, It's a deep part of me
+* Photography, arts and culture
 
+## Me
+<!--
+<figure>
+<img src="me.jpg" width="100" height="100">
+</figure> -->
+
+<!--
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
+
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.-->
 
-## Getting Started
+## A well-balanced life
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Just few things are sufficient for me: my laptop, a landscape, a book and a mountain that just wait to be climbed ! 
