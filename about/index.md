@@ -21,10 +21,9 @@ comments: false
 * Photography, arts and culture
 
 ## Me
-<!--
 <figure>
 <img src="me.jpg" width="100" height="100">
-</figure> -->
+</figure>
 
 <!--
 {% capture images %}

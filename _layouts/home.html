@@ -11,6 +11,7 @@ layout: compress
 </head>
 <body>
     {% include nav.html %}
+    
     <!-- Header -->
     <header class="header flex" role="banner">
         <div class="container animated fadeIn">
@@ -18,33 +19,40 @@ layout: compress
                     <a href="{{ site.url }}">
                         <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
                     </a>
-                    <h3 class="title">
-                        <a class="zoombtn" href="{{ site.url }}">
-                        	<p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
-			            </a>
-                    </h3>
+
+                    <h1 class="title">
+                    <p style="font-size:1.6rem;font-weight:500">{{ site.title }}</p>
+                    </h1>
+
                     <hr class="hr-line">
-                    <h3 class="title">
-                        <a href="{{ site.url }}">
-                        	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
-			            </a>
-                    </h3>
+
+                    <h2 class="title"> 
+                    <p style="font-size:1.6rem;font-weight:300">{{ site.bio }}</p> 
+                    </h2>
+
                     {% include social-links.html %}
-                  <hr class="hr-line">
-                  <h3 class="title">
+
+                    <hr class="hr-line">
+
+                    <h2 class="title">
                          <a class="btn zoombtn" href="{{ site.url }}/about">
-                         About
+                         About me
                          </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/posts">
-                         Posts
+                         <a class="btn zoombtn" href="{{ site.url }}/studies">
+                         Studies and Works
                          </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/projects">
-                         Projects
+                         <a class="btn zoombtn" href="{{ site.url }}/passions">
+                         Passions
                          </a>
-                 </h3>
+                         <a class="btn zoombtn" href="{{ site.url }}/sports">
+                         Sports
+                         </a>
+                 </h2>
             </div>
         </div>
     </header>
+
     {% include scripts.html %}
+    
 </body>
 </html>
