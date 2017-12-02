@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Studies at École Centrale de Lyon"
+title: "Surf, how I began"
 date: 2017-12-01
-excerpt: "My school career at one of the best engineering school of France"
-project: true
+excerpt: "yeah ! careful to the shorebreak"
+sport: true
 comments: false
 ---
 
