@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Studies at École Centrale de Lyon"
-date: 2016-04-06
+date: 2017-12-01
 excerpt: "My school career at one of the best engineering school of France"
 studies : true
 comments: false
