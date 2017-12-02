@@ -1,5 +1,5 @@
 ---
-layout: studies
+layout: post
 title:  "Movies"
 date:   2017-12-01
 excerpt: "Go to theater, watch movies, be surprised and then share about them"

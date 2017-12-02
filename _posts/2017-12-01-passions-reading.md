@@ -1,5 +1,5 @@
 ---
-layout: studies
+layout: post
 title:  "Reading"
 date:   2017-12-01
 excerpt: "One of my passion: books - Sci-Fi, Novels, Poems"

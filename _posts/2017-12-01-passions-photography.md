@@ -1,5 +1,5 @@
 ---
-layout: studies
+layout: post
 title:  "Photography"
 date:   2017-12-01
 excerpt: "Photography is one of my favourite hobby"
