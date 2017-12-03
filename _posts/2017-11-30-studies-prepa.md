@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "School"
-date:   2017-12-02
-excerpt: "School Centrale"
+title:  "Studies at École Centrale de Lyon"
+date:   2017-12-01
+excerpt: "My school career at one of the best engineering school of France"
 studie: true
 tag:
 - jekyll 
@@ -12,9 +12,9 @@ tag:
 - theme
 comments: true
 ---
+
 <figure>
-	<img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg">
-	<figcaption>Test</figcaption>
+	<img src="{{site}}/img/centrale.jpg">
 </figure>
 
 ## Entrance
@@ -30,3 +30,4 @@ I took many different courses to discover what I like to do. For example, I foll
 
 
 ## Organizations
+

@@ -22,7 +22,7 @@ comments: false
 
 ## Me
 <figure>
-<img src="me.jpg" width="100" height="100">
+<img src="{{site}}/img/me.jpg" width="100" height="100">
 </figure>
 
 <!--
