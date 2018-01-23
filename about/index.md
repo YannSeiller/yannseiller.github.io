@@ -6,9 +6,12 @@ date: 2017-11-24
 comments: false
 ---
     
-<center> Let me introduce myself: I'm <strong>Yann Seiller</strong>. I'm french and I was born in a small city, north-east France. One thing that can caracterized me is the fact that most things, in this world, interest me. Of course, technologies and humain relation with them is a crucial subject for me, but not it's not the only one. I'am a proponent of what I call a <em>"well-balanced life"</em>.
+<p> Hi ! I'm <strong>Yann Seiller</strong> and this is my personal blog. </p> 
 
- Let me explain: I consider that it's really significant to be multi-skilled, and to be able to be interested in many domains. It's a plus for a simple reason: in our profesional and private life, we will be more and more exposed to amazing cases, have seen many different things bring us an open-mindedness, which help us to deal with every challenge.</center>
+
+<p> I'm french and I was born in a small city, north-east France. One thing that can caracterized me is the fact that most things, in this world, interest me. Of course, technologies and humain relation with them is a crucial subject for me, but not it's not the only one. I'am a proponent of what I call a <em>"well-balanced life"</em>. </p>
+
+<p> Let me explain: I consider that it's really significant to be multi-skilled, and to be able to be interested in many domains. It's a plus for a simple reason: in our profesional and private life, we will be more and more exposed to amazing cases, have seen many different things bring us an open-mindedness, which help us to deal with every challenge. </p>
 
 ## Things that I like to do or I'm interested in
 * Of course, technologies and challenges of the new century
@@ -21,8 +24,14 @@ comments: false
 * Photography, arts and culture
 
 ## Me
+
 <figure>
-<img src="{{site}}/img/me.jpg" width="100" height="100">
+<img src="{{site}}/img/me.JPG" width="100" height="100">
+</figure>
+
+<figure>
+	<img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg">
+	<figcaption>Test</figcaption>
 </figure>
 
 <!--

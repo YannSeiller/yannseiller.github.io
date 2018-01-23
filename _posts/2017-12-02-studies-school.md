@@ -19,7 +19,7 @@ comments: false
 
 ## Entrance
 
-I arrived at <a href="http://www.ec-lyon.fr/"> École Centrale de Lyon </a> after passing the entrance exams. I chose this school for many reasons, and amongst them the fact that Centrale de Lyon is a way of excellence in many domains.
+I arrived at <a href="http://www.ec-lyon.fr/"> École Centrale de Lyon </a> after passing the entrance exams. I chose this school for many reasons, and amongst them the fact that École Centrale de Lyon is a way of excellence in many domains.
 
 ## Courses
 
